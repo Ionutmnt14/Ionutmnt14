@@ -8,7 +8,7 @@ Aspiring front-end developer passionate about building beautiful and responsive 
 
 * 🌍  I'm based in Romania
 * 🖥️  See my portfolio at [Portofolio](http://ionutmuntean.vercel.app/)
-* ✉️  You can contact me at [ionutmuntean350@gmail.com](mailto:ionutmuntean350@gmail.com)
+* ✉️  You can contact me at [ionutmnt1414@gmail.com](mailto:ionutmnt1414@gmail.com)
 * 🚀  I'm currently working on [Sphere AI](http://saas-landing-page-nine-gilt.vercel.app/)
 * 🧠  I'm learning TypeScript
 
